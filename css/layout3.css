@@ -20,8 +20,7 @@ header h1 { height: 125px; width: 225px; margin: 0; background: purple; color: w
 header nav { clear: both; background: black; color: white; }
 header nav li { float: left; margin-left: 78px; margin-top: 10px; font-weight: bold; font-size: 18px; }
 
-/*main*/
-#main {  }
+/*메뉴, 로그인*/
 aside { float: left; background: yellow; }
 
 .lgmenu { margin-top: 20px; }
@@ -40,6 +39,8 @@ aside hr { clear: both; }
 #notice li { height: 40px; background: url(/img/fountain-pen.png) no-repeat top left; padding-left: 20px; margin-left: 5px; }
 .ad { width: 210px; height: 300px; margin: 50px auto; border: 1px dashed black; background: white; }
 
+/*main*/
+#main {  }
 #content { float: right; background: orange; }
 /*웰컴 메세지*/
 #welcome { background: lightblue; height: 450px; margin: -30px 10px 10px 10px; }
